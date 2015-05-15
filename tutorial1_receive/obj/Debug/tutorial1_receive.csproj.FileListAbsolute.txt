@@ -1,0 +1,6 @@
+C:\Users\zfergun\Desktop\rabbitmq_dotnet\tutorial1_receive\bin\Debug\tutorial1_receive.exe.config
+C:\Users\zfergun\Desktop\rabbitmq_dotnet\tutorial1_receive\bin\Debug\tutorial1_receive.exe
+C:\Users\zfergun\Desktop\rabbitmq_dotnet\tutorial1_receive\bin\Debug\tutorial1_receive.pdb
+C:\Users\zfergun\Desktop\rabbitmq_dotnet\tutorial1_receive\bin\Debug\RabbitMQ.Client.dll
+C:\Users\zfergun\Desktop\rabbitmq_dotnet\tutorial1_receive\obj\Debug\tutorial1_receive.exe
+C:\Users\zfergun\Desktop\rabbitmq_dotnet\tutorial1_receive\obj\Debug\tutorial1_receive.pdb

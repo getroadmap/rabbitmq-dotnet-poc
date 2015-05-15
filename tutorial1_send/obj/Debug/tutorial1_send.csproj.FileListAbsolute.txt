@@ -1,0 +1,7 @@
+C:\Users\zfergun\Desktop\rabbitmq_dotnet\tutorial1_send\bin\Debug\tutorial1_send.exe.config
+C:\Users\zfergun\Desktop\rabbitmq_dotnet\tutorial1_send\bin\Debug\tutorial1_send.exe
+C:\Users\zfergun\Desktop\rabbitmq_dotnet\tutorial1_send\bin\Debug\tutorial1_send.pdb
+C:\Users\zfergun\Desktop\rabbitmq_dotnet\tutorial1_send\bin\Debug\RabbitMQ.Client.dll
+C:\Users\zfergun\Desktop\rabbitmq_dotnet\tutorial1_send\obj\Debug\tutorial1_send.csprojResolveAssemblyReference.cache
+C:\Users\zfergun\Desktop\rabbitmq_dotnet\tutorial1_send\obj\Debug\tutorial1_send.exe
+C:\Users\zfergun\Desktop\rabbitmq_dotnet\tutorial1_send\obj\Debug\tutorial1_send.pdb
